@@ -1,0 +1,61 @@
+[{
+    "emp-id":2283,
+    "email":"mravikumar@msystechnologies.com",
+    "admin":true
+},
+{
+    "emp-id":868,
+    "email":"ravi.elumalai@msystechnologies.com",
+    "admin":true
+},
+{
+    "emp-id":1480,
+    "email":"bmoorthy@msystechnologies.com",
+    "admin":true
+},
+{
+    "emp-id":2057,
+    "email":"msanthanavelu@msystechnologies.com",
+    "admin":false
+},
+{
+    "emp-id":2153,
+    "email":"asakthivel@msystechnologies.com",
+    "admin":false
+},
+{
+    "emp-id":1930,
+    "email":"gmarimuthu@msystechnologies.com",
+    "admin":false
+},
+{
+    "emp-id":1810,
+    "email":"spalanati@msystechnologies.com",
+    "admin":false
+},
+{
+    "emp-id":1818,
+    "email":"tmanjare@msystechnologies.com",
+    "admin":false
+},
+{
+    "emp-id":2497,
+    "email":"iburman@msystechnologies.com",
+    "admin":false
+},
+{
+    "emp-id":2061,
+    "email":"swale@msystechnologies.com",
+    "admin":false
+},
+{
+    "emp-id":1771,
+    "email":"spachaiyappan@msystechnologies.com",
+    "admin":false
+},
+{
+    "emp-id":1774,
+    "email":"skarnati@msystechnologies.com",
+    "admin":false
+}
+]

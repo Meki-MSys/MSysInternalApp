@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://msysuser:MsysUser123@msysemployeedetails.jrloo.mongodb.net/MSysEmployeeDLive?retryWrites=true&w=majority",
+    "jwttoken": "12345678"
+}
